@@ -1,2 +1,2 @@
 # Deloitte-Cybersecurity-Job-Simulation
-Completed Deloitte Cybersecurity Job Simulation – Hands-on experience in cybersecurity analysis, threat identification, vulnerability assessment, incident investigation, and security risk management through practical industry-based tasks.
+Completed Deloitte Cybersecurity Job Simulation (Forage) – Investigated web server activity logs, analyzed suspicious user behavior, identified automated API access patterns, and assessed internal dashboard exposure, authentication, and VPN-based remote access.
